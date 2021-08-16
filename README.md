@@ -1,6 +1,6 @@
 # cep_getx
 
-A new Flutter project.
+Aplicativo desenvolvido utilizando GetX com Api do ViaCEP. 
 
 ## Getting Started
 
